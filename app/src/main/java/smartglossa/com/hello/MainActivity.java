@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 e.printStackTrace();
             }
         }
-    }
+    } // hello project
 
     public void  next( View view)   //NEXT
     {
