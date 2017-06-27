@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="save">save</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="next">next</string>
+    <string name="getname">getname</string>
+    <string name="getpassword">getpassword</string>
+    <string name="load">load</string>
+    <string name="back">back</string>
+
+</resources>
